@@ -23,7 +23,7 @@ fun main(args: Array<String>) {
     var (_, month,year) = tripleDate //игнорирование
 
     // 10 zadacha
-    month = 8
-    val date = Pair( month,year)
+    month = 8 //извлечение значения и вношу изменения 
+    val date = Pair( month,year) //новая Pair 
     println(date)
 }
