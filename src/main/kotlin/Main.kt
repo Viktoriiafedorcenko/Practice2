@@ -20,7 +20,7 @@ fun main(args: Array<String>) {
     val tripleDate = Triple(7, 9, 2023)
 
     // 9 zadacha
-    var (_, month,year) = tripleDate
+    var (_, month,year) = tripleDate //игнорирование
 
     // 10 zadacha
     month = 8
