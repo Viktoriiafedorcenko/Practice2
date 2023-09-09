@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
     val lastName: String="Fedorchenko"
     println(lastName)
     // 5 zadacha
-    val fullName: String=firstName + " " + lastName
+    val fullName: String=firstName + " " + lastName //конкатенация
     println(fullName)
     // 6 zadacha
     val myDetails: String="Hi, my name is $fullName "
